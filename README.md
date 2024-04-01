@@ -1,4 +1,3 @@
-EN
 A multiplayer agar.io pygame clone
 
 Our teams are in battle!
